@@ -1,0 +1,6 @@
+As a Full Stack Developer, I worked on an innovative website called litestore and constructed the company's website, which is also their product, where individuals can lend and lease properties/places for temporary purposes. 
+It is a one-of-a-kind website that dynamically lists properties and allows for three different methods of login. 
+It's created with React.js, Redux, Firebase, and Tailwind CSS. It executes different CRUD tasks.
+
+website: https://litestore.in/
+github : https://github.com/Suritam-Nandy/litestore
